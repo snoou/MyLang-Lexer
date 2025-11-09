@@ -3,4 +3,4 @@
 
 
 # اجرای برنامه 
-python3 main.py test_source.txt 
+```python3 main.py test_source.txt``` 
